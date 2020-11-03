@@ -15,7 +15,7 @@ Currently, the DocuSign Signature SOAP API uses DocuSign [Legacy Authentication]
 For User Applications, it is preferable that each DocuSign sender logs in to use his or her own account. SFDC Named Credentials enable this.
  
 ### 2. Create the Named Credential
-In this step, we create a Named Credential for the DocuSign Demo (Developer Sandbox) environment.
+In this step, we create a Named Credential for the DocuSign Demo (Developer Account) environment.
 [SFDC Docs](http://help.salesforce.com/apex/HTViewHelpDoc?id=named_credentials_define.htm&language=en_US)
 
 * From Setup, enter name in the Quick Find box, then select Named Credentials.
