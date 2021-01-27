@@ -8,7 +8,7 @@ Public class DS_Recipe_Send_Env_Email_Controller {
     Private static string account_id =      'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'; 
         // NOTE: You MUST use the long form of the account id. It's has 32 digits 
         // with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx). 
-        // This version of the account id is shown in the APIs and Connects section
+        // This version of the account id is shown in the Apps and Keys page
         // of your DocuSign Administration tool
 
 
